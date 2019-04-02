@@ -1,7 +1,9 @@
+from shutil import which
 from pytube import YouTube
 import argparse
 import os
 import subprocess
+
 
 class YouTubeMp3Downloader:
     def __init__(self, videoUrl=None, dl_dir=os.getcwd()):
@@ -19,16 +21,27 @@ class YouTubeMp3Downloader:
         print('Downloading ... '+self.__ytObj.title)
         self.__ytStreamObj.download(self.__dir)
 
+
+    def check_file_exists(self,name):
+        ret_val = which(name)
+        if ret_val is None:
+            print('Please install '+name)
+            exit(1)
+
     def convertToMp3(self):
         new_filename =  self.__ytStreamObj.default_filename[:
                         self.__ytStreamObj.default_filename.find('.')]+'.mp3'
         default_filename =  os.path.join(self.__dir,
                                          self.__ytStreamObj.default_filename)
         new_filename = os.path.join(self.__dir, new_filename)
+
+        self.check_file_exists('ffmpeg')
         subprocess.call(['ffmpeg','-i', default_filename,
                          new_filename],
                         stdout=subprocess.DEVNULL,
                         stderr=subprocess.DEVNULL)
+
+        self.check_file_exists('rm')
         subprocess.call(['rm',default_filename])
         print(new_filename +' downloaded')
 
