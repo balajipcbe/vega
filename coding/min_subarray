@@ -1,0 +1,18 @@
+import sys
+        i = 0
+        j = 0
+        total = 0
+        min_len = sys.maxsize
+        while i <= j and j < len(nums):
+            if total >= s:
+                length = j - i -1
+                print(length)
+                min_len = min(length, min_len)
+                total -= nums[i]
+                i += 1
+            else:
+                total += nums[j]
+                j += 1
+        
+        return min_len if min_len != sys.maxsize else 0
+    
