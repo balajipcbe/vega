@@ -1,0 +1,37 @@
+total 44299616
+-rwxr-xr-x@ 1 balajipa  staff        63677 Nov 13  2010 AtherosCert.jpg
+-rw-r--r--@ 1 balajipa  staff       179045 Jun  5  2015 Balaji Palaniswami_Qualcomm_Atheros.pdf
+-rw-r--r--@ 1 balajipa  staff        37026 Jun  5  2015 Balaji_Palaniswami_wayne.pdf
+-rw-r--r--@ 1 balajipa  staff        37026 Nov 18  2015 Balaji_Wayne_Exp_Letter.pdf
+-rw-r--r--@ 1 balajipa  staff       371804 Jan  8  2016 exp_letter_atheros_updated2.pdf
+-rw-r--r--@ 1 balajipa  staff         1847 Feb 14  2018 battle.rtf
+-rw-r--r--@ 1 balajipa  staff     12678585 Feb 20  2018 Palaniswami, Balaji H-1B COE Employee Copy.PDF
+-rw-r--r--@ 1 balajipa  staff        94106 Mar 18  2018 child_bonding_leave.pdf
+-rw-r--r--@ 1 balajipa  staff   8762163200 Mar 20  2018 Tom-FabricTraining-Session1.MPG
+-rw-r--r--@ 1 balajipa  staff  10510008320 Mar 21  2018 Tom-FabricTraining-Session2.MPG
+-rw-r--r--@ 1 balajipa  staff        51843 Mar 26  2018 sugarbowl_notes.rtf
+-rw-r--r--@ 1 balajipa  staff     15827471 Apr 16  2018 00 - Elasticsearch Day 1.pdf
+-rw-r--r--@ 1 balajipa  staff      5358901 Apr 17  2018 01 - Elasticsearch Day 2.pdf
+-rw-r--r--@ 1 balajipa  staff      5772441 Apr 30  2018 Forwarding-CP-func-spec.docx
+-rw-r--r--@ 1 balajipa  staff       102528 May  1  2018 epmc_packet_flow_towards_Leaf.pdf
+-rw-r--r--@ 1 balajipa  staff        82267 May  1  2018 epm_arp_and_am.pdf
+-rw-r--r--@ 1 balajipa  staff       115712 Jun  5  2018 PERM Explanation Memo.doc
+-rw-r--r--@ 1 balajipa  staff       133202 Jun  5  2018 Employee Draft Review (NEW) - Software Engineer (SJC).docx
+-rw-r--r--@ 1 balajipa  staff       379392 Jun  6  2018 Balaji_Atheros_Exp_Letter.pdf
+-rw-r--r--@ 1 balajipa  staff       136471 Jun  7  2018 balajipa.docx
+-rw-r--r--@ 1 balajipa  staff       231266 Jun 14  2018 Rogue-EP-Func-Design-Spec.docx
+-rw-r--r--@ 1 balajipa  staff      4217951 Jun 19  2018 David_R_Hanson-C_Interfaces_and_Implementations-EN.pdf
+-rw-r--r--@ 1 balajipa  staff        12892 Jun 21  2018 EPelk.md
+-rw-r--r--@ 1 balajipa  staff        97253 Jun 21  2018 EPelk.pdf
+-rw-r--r--@ 1 balajipa  staff         1124 Jun 22  2018 ComputerMemory.md
+-rw-r--r--@ 1 balajipa  staff      1897984 Jun 25  2018 MTS-Presentation-NH.ppt
+-rw-r--r--@ 1 balajipa  staff         5582 Aug 21  2018 ip_move.py
+-rw-r--r--@ 1 balajipa  staff        19383 Aug 22  2018 epelk.py
+-rw-r--r--@ 1 balajipa  staff        13551 Sep 11  2018 clipboard_commands.html
+-rw-r--r--@ 1 balajipa  staff      1802804 Sep 12  2018 IMG_0786 copy.jpg
+-rw-r--r--@ 1 balajipa  staff       379409 Sep 13  2018 Atheros_exp_letter.pdf
+-rw-r--r--@ 1 balajipa  staff         3740 Sep 13  2018 clipboard_commands.md
+-rw-r--r--@ 1 balajipa  staff      1599163 Nov 26 16:20 PythonNetBinder.pdf
+-rw-r--r--@ 1 balajipa  staff        27242 Dec 12 12:26 NlbFabricTestTopology-DONTDELETE.py
+-rw-r--r--@ 1 balajipa  staff       128711 Apr  1 08:34 paystub.zip
+-rw-r--r--@ 1 balajipa  staff       151069 Apr  1 08:39 paystub.pdf
